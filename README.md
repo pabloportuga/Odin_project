@@ -1,2 +1,5 @@
 # Odin_project
-Alguns códigos avulson do "The Odin Project".
+Alguns códigos avulsos do "The Odin Project".
+
+Joco em HTML/CSS e JavaScript.
+Data: 11/2022
